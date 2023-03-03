@@ -1,0 +1,483 @@
+
+
+        
+
+        
+
+
+        h1 {
+            font-family: 'Courier New', Courier, monospace;
+            font-weight: bolder;
+            font-size: medium;
+        }
+        
+          
+        .r{
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: small;
+            font-weight: bold;
+        }
+        .a{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: larger;
+            font-weight: 400;
+        }
+        .b{
+            font-size: medium;
+            font-weight: bolder;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .c{
+            font-size: larger;
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: lighter;
+        }
+        .d{
+            font-size: smaller;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: bold;
+        }
+        input[type="submit"]{
+            background-color: aqua;
+        }
+        fieldset div input[type="submit"]{
+            background-color:blue}
+
+            
+
+            img [title="this is me"] {
+                height :150px;
+                width: 100px ;
+                 border: 50px red solid;
+            }
+
+            input[placeholder="user"]{
+                color: blue;
+                background-color: aqua;
+            
+            }
+
+            input[type="email"]{
+                color:red;
+                background-color: aqua;
+            }
+            input[name="mail"]{
+                color:red;
+                background-color:blue;
+            }
+
+            .issa{
+                
+                text-align: left;
+            }
+            legend{
+                text-align: right;
+            }
+
+            .x{
+                height: 200px;
+                width: 200px;
+                border: 10px red solid ; 
+                background-image:url("1.jpg.jpg");
+                background-size: 50px 50px;
+                background-attachment: scroll;
+                background-position: center top;
+                background-repeat: no-repeat;
+                background-color: aqua;
+               
+
+            }
+            .i{
+                border: 5px red solid;
+                width: 70%;
+                
+                
+                margin-left: 15%;
+                margin-right: 15%;
+                text-align: center;
+                padding: 5px;
+            }
+
+            a[class="k"]{
+                text-decoration:none ;
+                color: aqua;
+
+            }
+            a[class="q"]{
+                text-decoration:none ;
+                color: black}
+
+            a[class="w"]{
+                    text-decoration:none ;
+                    color:blue;}
+
+                    a[class="kingg"]{
+                        text-decoration:none ;
+                    color:rgb(255, 0, 179);
+                }
+                    
+           
+                a{
+                    color: blue;
+                }   
+            a:hover{
+                color:red;
+                
+            }
+           
+            a:visited{
+                color :green
+            }
+
+            div[class="v"]{
+                padding: 0px  5px;
+                margin: 0px  60px;
+                width: 100px;
+                height: 10px;
+                background-color: blue;
+                color: burlywood;
+                display: inline;
+            }
+            div[class="p"]{
+                padding: 0px 5px;
+                margin: 0px  60px;
+                width: 100px;
+                height: 10px;
+                background-color: blue;
+                color: brown;
+                display: inline;
+
+
+            }
+
+                div[class="g"]{
+                    padding: 0 5px;
+                    margin: 0 60px;
+                    width: 100px;
+                    height: 10px;
+                    background-color: blue;
+                    color: aqua;
+                    display: inline;
+
+                
+                }
+                    
+            span[class="2"]{
+                padding: 10px;
+                margin: 5px;
+                background-color: aqua;
+                width: 100px;
+                height: 40px;
+                display: block;
+            }
+
+            span[class="3"]{
+                padding: 10px;
+                margin: 5px;
+                background-color: aqua;
+                width: 100px;
+                height: 40px;
+                display: block;
+            }
+
+            span[class="4"]{
+                padding: 10px;
+                margin: 5px;
+                background-color: aqua;
+                width: 100px;
+                height: 40px;
+                display: inline-block;
+            }
+             .hh  {overflow:auto;
+                background-color: blue;
+                height: 100px;
+                width: 100px ;}
+                
+                
+            h2[class="7"]{
+                visibility:hidden;
+                
+            }
+            .pp div{
+                float: left;
+               width: 20%;
+
+            }
+            .pp {
+                background:red;
+
+            }
+            .clear{
+                clear: both;
+            }
+            
+        
+        .father{
+            width: 200px;
+            height: 200px;
+            border: 5px red solid;
+            position: relative;
+            
+        }
+             
+            .chield{
+                width: 100px;
+                background-color: rebeccapurple;
+                position: absolute;
+                bottom: 20px;
+                 
+                  
+
+            }
+            .rr{
+                width: 100px;
+                background-color: blue;
+            }
+
+            .chield2{
+                color: aqua;
+                background-color: brown;
+                position: sticky;
+                top: 10px;
+            }
+
+            .father2{
+            width: 200px;
+            height: 2000px;
+            border: 5px red solid;
+         
+                
+
+            }
+            .chield3{
+                width: 50px;
+                background-color: aqua;
+                position: fixed;
+                color: brown;
+               top: 560px;
+               right: 60px;
+
+            }
+
+            .rrrr{
+                background-color: blueviolet;
+                width: 50px;
+            }
+
+            .kira1{
+                height: 50px;
+                width: 50px;
+                background-color: aqua;
+                position: absolute;
+                top: 0px;
+                right: 0px;
+                z-index: 1;
+              
+            }
+            .kira2{
+                height: 50px;
+                width: 50px;
+                background-color: red;
+                position: absolute;
+                top: 20px;
+                right: 20px;
+                
+               
+                
+            }
+            .kira3{
+                height: 50px;
+                width: 50px;
+                background-color: black;
+                position: absolute;
+                top: 40px;
+                right: 40px;
+                z-index: 2;
+              
+
+            }
+            .kira4{
+                height: 50px;
+                width: 50px;
+                background-color: blue;
+                position: absolute;
+                top: 60px;
+                right: 60px;
+                
+            }
+
+            .kaa{
+               border: 5px red solid;
+               position: relative;
+               height: 110px ;
+               width: 100%;
+               
+                
+            }
+            
+             div p{
+                width: 80%;
+                background-color: aqua;
+              padding: 15px;
+              position: relative;
+
+            }
+            div p::after{
+                content: "";
+                background-color: blueviolet;
+                height: 100%;
+                width: 5px;
+                position: absolute;
+                top: 0px;
+                left: 0px;
+
+            }
+            div p::before{
+                content: "what is your name? ";
+
+            }
+          
+            
+            /* .ool{
+                background-color: aqua;
+                text-align: center;
+                width: 40%;
+            display: inline-block; }
+                
+
+            @media screen and (max-width:500px){
+                .ool{
+                    font-family: 'Courier New', Courier, monospace;
+                    display: block;
+                }
+                body{
+                    background-color:gray;}
+                
+                
+            }
+            @media screen and (min-width:501px) and (max-width:900px) {
+                body{
+                    background-color: blueviolet;
+                }
+                
+            }
+
+            @media screen and (min-width:901px) and (max-width:1440px) {
+                body{
+                    background-color: rgb(125, 226, 43);
+                }
+                
+            } */
+
+          
+            
+
+            table{
+                border-spacing: 15px;
+            }
+
+            .q22{
+                border:2px;
+                
+                color: black;
+              
+            }
+            table td {
+                border-radius: 5px;
+                box-shadow: 1px 1px 1px 1px ;
+                
+                
+            }
+            .hi{
+                display: flex;
+                flex-direction: column;
+                background-color: aqua;
+                border-right: 4px solid black;
+            }
+            .first{
+                display: flex;
+        
+            }  
+            .second{
+                height: 30px;
+                display: flex;
+                overflow-y: auto;
+                border: 1px solid black;
+                margin: 10px;
+                border-bottom: 2px black solid;
+                border-top: 2px black solid;
+         
+            }
+            .third{
+                display: flex;
+                flex-direction: row;
+               
+          
+            } 
+        .box article {
+background: gray;
+margin: 10px;
+width: 33.33333%;
+
+        }
+                
+            
+     #isdsa{
+
+        visibility: hidden;
+     }    
+
+     .LOL{
+        text-decoration: underline;
+     }
+            #lopp a{
+                color: aqua;
+            }
+            #xavi a{
+                color: aqua;
+
+            }
+            #this a{
+                color: aqua;
+                background-color: blue;
+            }
+            #kos{
+                font:bold;
+            }
+            #kos a{
+                color:red;
+            }
+            ul{
+                color: blue;
+                list-style-type: circle;
+                
+            }
+            .laa a{ color:red}
+            ol{
+                list-style-type: none;
+                
+            }
+             .alaa a{
+                color:red
+            }
+
+          
+          
+            
+            
+           
+            
+                
+                
+             
+
+            
+        
+            
+
+            
+           
+
+            
+          
